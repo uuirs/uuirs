@@ -36,16 +36,6 @@ Areas involved:
 - ONNX / WebGPU deployment
 - Mask generation for interactive visual effects
 
-### SeqT-JAX
-
-Long-sequence streaming Transformer system for time-series inference.
-
-Highlights:
-
-- Long-context sequence modeling
-- Streaming inference with cached state
-- Ring-buffer based state management
-- Practical latency reduction for online inference workloads
 
 ## Technical focus
 
@@ -55,14 +45,6 @@ Highlights:
 - Swift / iOS native inference
 - Long-sequence and streaming model systems
 - Edge AI product prototyping
-
-## Selected repositories
-
-- [JAX fork](https://github.com/uuirs/jax)
-- [Equinox fork](https://github.com/uuirs/equinox)
-- [diffusers fork](https://github.com/uuirs/diffusers)
-- [mica-flow](https://github.com/uuirs/mica-flow)
-- [sam](https://github.com/uuirs/sam)
 
 ---
 
